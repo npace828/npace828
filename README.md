@@ -31,7 +31,7 @@
 
 ## Experience
 
-### Gulo Composites, Brevard, NC (2018 - Present)
+### Gulo Composites, Brevard, NC (2018 - 2023)
 At Gulo Composites, I've been immersed in the intersection of technology and mechanical engineering. Collaborating with the lead Mechanical Engineer, I played a pivotal role in predicting tensile strength and break points for the G1 Carbon Spoke. This involved applying my data science skills, utilizing predictive models like linear regression and gradient descent. The insights gained from these models were seamlessly integrated into Finite Element Analysis (FEA) software, where I visualized and analyzed results using SolidWorks Simulation.
 
 Beyond data science, I've contributed to the physical realm by personally overseeing the production of over 1,000 wheels, catering to both retail and special order customers. In addition, I took on the responsibility of crafting a comprehensive training guide for future mechanics, ensuring a seamless onboarding process.
