@@ -4,7 +4,7 @@
 📍 Brevard, NC  
 📧 npace828@icloud.com  
 📱 843.870.4486  
-🌐 [GitHub](https://github.com/npace828) | [LinkedIn](https://www.linkedin.com/in/nicholas-pace/)  
+🌐 [GitHub](https://github.com/npace828) | [LinkedIn](https://www.linkedin.com/in/npace828/)  
 
 ## Technical Skills
 
