@@ -39,7 +39,7 @@ Beyond data science, I've contributed to the physical realm by personally overse
 My role extended beyond the technical aspects, as I actively maintained customer relationships through a robust CRM system and provided excellent customer service. Managing social media accounts, I ensured a visually appealing and cohesive brand theme, showcasing both the technical precision and aesthetic excellence of our products.
 
 ### Coda del Pesce, Charleston, SC (2012 - 2018)
-My experience at Coda del Pesce immersed me in the world of fine dining and hospitality. Serving as Lead Server and Sommelier, I not only curated and managed the wine menu but also trained servers on new and existing wines, leading to a notable increase in revenue.
+My experience at Coda del Pesce brought me to top echelon of fine dining and hospitality. Serving as Lead Server and Sommelier, I not only curated and managed the wine menu but also trained servers on new and existing wines, leading to a notable increase in revenue.
 
 My responsibilities extended to both onsite and offsite events, where I personally curated wine selections tailored to each unique event. Alongside this, I took charge of managing and maintaining financial records, demonstrating proficiency in financial oversight and attention to detail. Simultaneously, I maintained the restaurant's online presence by regularly updating the website with the latest news, specials, and events.
 
